@@ -1,0 +1,5 @@
+C:\Users\Thiago\Desktop\Teste MInuto Seguros\ProjetoMinutoSeguros\ProjetoMinutoSeguros\bin\Debug\ProjetoMinutoSeguros.exe.config
+C:\Users\Thiago\Desktop\Teste MInuto Seguros\ProjetoMinutoSeguros\ProjetoMinutoSeguros\bin\Debug\ProjetoMinutoSeguros.exe
+C:\Users\Thiago\Desktop\Teste MInuto Seguros\ProjetoMinutoSeguros\ProjetoMinutoSeguros\bin\Debug\ProjetoMinutoSeguros.pdb
+C:\Users\Thiago\Desktop\Teste MInuto Seguros\ProjetoMinutoSeguros\ProjetoMinutoSeguros\obj\Debug\ProjetoMinutoSeguros.exe
+C:\Users\Thiago\Desktop\Teste MInuto Seguros\ProjetoMinutoSeguros\ProjetoMinutoSeguros\obj\Debug\ProjetoMinutoSeguros.pdb
